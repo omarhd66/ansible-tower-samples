@@ -4,4 +4,7 @@
     - name: Hello Message
       debug:
         msg: "Hello World!"
+    - name:
+      debug:
+        var: facts
 
